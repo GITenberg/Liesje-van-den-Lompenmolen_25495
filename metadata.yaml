@@ -1,0 +1,30 @@
+_repo: Liesje-van-den-Lompenmolen_25495
+_version: 0.1.0
+alternative_title: Lumpenmüllers Lieschen. Dutch
+covers:
+- cover_type: generated
+  image_path: cover.png
+creator:
+  author:
+    agent_name: Heimburg, W.
+    aliases:
+    - Behrens, Bertha
+    - Heimburg, Wilhelmina
+    birthdate: 1850
+    deathdate: 1912
+    gutenberg_agent_id: '31372'
+    url: http://www.gutenberg.org/2009/agents/31372
+description: ''
+gutenberg_issued: '2008-05-16'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '25495'
+language: nl
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'Fiction'
+- !lcc 'PT'
+title: Liesje van den Lompenmolen
+url: http://www.gutenberg.org/ebooks/25495
